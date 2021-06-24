@@ -1,3 +1,8 @@
+/*
+Congratulations!
+This code is the second question.
+By getting the answer, you can find the spi book hidden in the campus.
+*/
 #include<stdio.h>
 int euclid(int x, int y){
   if (y == 0)
@@ -8,7 +13,7 @@ int euclid(int x, int y){
 int main(void){
   int floor_num;
   printf("function euclid(6,9)=? : "); scanf("%d",&floor_num );
-  printf("%d†“%dŠK,", euclid(1,21), floor_num);
-  printf("5171670930B930DA30FC30B9‚Ì–{’I\n"); /*UTF-16BE*/
+  printf("%dï¿½ï¿½ï¿½ï¿½%dï¿½K,", euclid(1,2021), floor_num); /*UTF-16BE*/
+  printf("5171670930B930DA30FC30B9ï¿½Ì–{ï¿½I\n"); /*UTF-16BE*/
   return 0;
 }
