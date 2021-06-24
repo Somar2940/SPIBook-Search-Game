@@ -3,6 +3,7 @@ Congratulations!
 This code is the second question.
 By getting the answer, you can find the spi book hidden in the campus.
 */
+
 #include<stdio.h>
 int euclid(int x, int y){
   if (y == 0)
